@@ -26,6 +26,8 @@ body {
   background-color: #333; }
 
 body {
+  background: url("../images/blue_number_bkg.jpg");
+  background-size: cover;
   display: -ms-flexbox;
   display: flex;
   color: #fff;
